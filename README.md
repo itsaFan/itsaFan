@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![itsaFan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itsaFan&show_icons=true&theme=dark#gh-dark-mode-only)
+
+
+
 <!--
 **itsaFan/itsaFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
