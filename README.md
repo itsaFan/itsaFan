@@ -1,7 +1,9 @@
 # Hello  👋
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaFan&color=orange)
 
-🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"
+                height="40" /> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"
+                height="40" />
           
 
           
