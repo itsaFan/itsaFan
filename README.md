@@ -1,7 +1,10 @@
 # Hello  👋
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaFan&color=orange)
 
-🌱 I’m currently learning to become a software engineer
+🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+
+          
 
 ## Skills
 <p align="left">
