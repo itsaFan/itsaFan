@@ -2,14 +2,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=itsaFan&color=orange)
 
 ## I’m currently learning 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"
-                height="40" /> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"
-                height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"
+                height="35" /> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"
+                height="35" />
           
 
           
 
-## Skills
+## Skills Acquired
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"
                 height="40" />
